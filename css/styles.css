@@ -1,0 +1,12 @@
+.btnStyles{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btnStyles button{
+    margin: 20px;
+    padding: 20px;
+    font-size: 20px;
+}
